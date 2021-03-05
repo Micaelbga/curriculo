@@ -1,2 +1,5 @@
-# curriculo-micael
- Curriculo pessoal feito em HTML e CSS3
+# Currículo-micael
+ Currículo pessoal feito em HTML e CSS3
+
+## Versões futuras
+  1. Interação com JS
