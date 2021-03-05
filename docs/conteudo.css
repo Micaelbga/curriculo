@@ -1,0 +1,51 @@
+div#details{
+    height: 700px;
+    width: 300px;
+    background-color: #404040;
+}
+section{
+    float: left;
+    height: 1000px;
+    width: 600px;
+    background-color: #BFBFBF;
+}
+header{
+    height: 1000px;
+    float: left;
+}
+div.aboutMe{
+    background-color: white;
+    margin: 5px 30px 5px 30px;
+    padding: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+ul#contact{
+    list-style: none;
+    margin: 0 0 50px 35px;
+}
+a{
+    color: #E6E6E6;
+    text-decoration: none;
+}
+h1{
+    margin: 35px 0 0 40px;
+    color: black;
+}
+h2{
+    padding: 50px 0 0 40px ;
+    color: #808080;
+}
+div>h2{
+    padding: 20px 0 30px 40px;
+}
+h3{
+    margin-bottom: 10px;
+}
+div>ul{
+    margin: 0 0 50px 60px;
+}
+li{
+    margin: 0 0 20px 0;
+    color: #E6E6E6;
+}
