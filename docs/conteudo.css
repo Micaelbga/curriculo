@@ -1,5 +1,5 @@
 div#details{
-    height: 700px;
+    height: 1000px;
     width: 300px;
     background-color: #404040;
 }
@@ -10,7 +10,6 @@ section{
     background-color: #BFBFBF;
 }
 header{
-    height: 1000px;
     float: left;
 }
 div.aboutMe{
@@ -36,7 +35,7 @@ h2{
     padding: 50px 0 0 40px ;
     color: #808080;
 }
-div>h2{
+div#details>h2{
     padding: 20px 0 30px 40px;
 }
 h3{
